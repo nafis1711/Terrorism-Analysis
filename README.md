@@ -13,4 +13,5 @@ The dropdown are interrelated, as the date is related to the month and the the c
 The Chart tool tab consist of two more tabs named World Chart and India Chart.
 The World chart provides the detailed frequency of terror attack in the stacked line for the selected dropdown by the user.
 The India chart gives out the frequency of terror attack happened in India, in the stacked line format for the selected dropdown.
+The frequency graph is plotted in 2D format with X-axis as the year and Y-axis as the count.
 Also there is filter provided for better insight.
