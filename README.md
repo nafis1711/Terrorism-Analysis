@@ -1,6 +1,6 @@
 # Terrorism-analysis using the concept of 'visualizing of time series data':
 
-This project is going to give the insights for the Terror attack happening in the world in details and panache manner. For this project I have used Python as my primary language and also,I have used Dash to make web application and visualization.
+This project is going to give the insights for the Terror attack happening in the world in details in panache manner. For this project I have used Python as my primary language and also,I have used Dash to make web application and visualization.
 
 In this project, I have generated a World Tool tab, which contains Scatter Geo maps, which provides the locations detail of the terror incidents, 
 and a Chart tool tab which contains Stacked line charts, which provides the frequency of the terror incidents. 
