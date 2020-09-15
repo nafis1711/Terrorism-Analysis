@@ -1,4 +1,4 @@
-# Terrorism-analysis using the concept of 'visualizing of time series data':
+# Terrorism-analysis using the concept of 'Time series Analysis':
 
 This project is going to give the insights for the Terror attack happening in the world in details in panache manner. For this project I have used Python as my primary language and also,I have used Dash to make web application and visualization.
 
